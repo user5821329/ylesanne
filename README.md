@@ -1,8 +1,8 @@
-# Kuidas kasutatakse githubi?
+### Kuidas kasutatakse githubi?
 
 ## Mis on github?
 Github on koht, kus saab salvestada, arendada ja luua programmeerimiskoodi. Seda 
-saab kasutada, lood projekti üksi või koos teistega. 
+saab kasutada, lood projekti üksi või koos teistega. Github kasutab Giti, mis aitab jälgida muudatusi, mis projektis tehtud on 
 
 # Mõned olulised mõisted: 
 • **Repository** - sinu projekti kaust GitGubis
@@ -20,20 +20,20 @@ saab kasutada, lood projekti üksi või koos teistega.
 
 ## Kui tahad laadida üles mingi projekti GitHubi 
 
-• Loo konto GitHubis 
+• **Loo konto GitHubis** 
 
-• Vajuta "New repository" 
+• **Vajuta "New repository"** 
 
-• Pane projektile nimi, mis sa soovid panna. 
+• **Pane projektile nimi, mis sa soovid panna.** 
 
-• Loo repository. 
+• **Loo repository.** 
 
-• Paigalda arvutisse Git -> Lae alla "Git for windows" 
+• **Paigalda arvutisse Git -> Lae alla "Git for windows"** 
 
-• Käivita .exe fail 
+• **Käivita .exe fail** 
 
-• Vajuta  install ja finish. 
+• **Vajuta  install ja finish.** 
 
 • Ava terminal projekti kaustas. 
 
-• Käivita.
+• **Käivita.**
