@@ -1,4 +1,4 @@
-### Kuidas kasutatakse githubi?
+# Kuidas kasutatakse githubi?
 
 ## Mis on github?
 Github on koht, kus saab salvestada, arendada ja luua programmeerimiskoodi. Seda 
