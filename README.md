@@ -1,16 +1,18 @@
-# Tunnitoo
-Kuidas kasutatakse GitHubi 
+# Kuidas kasutatakse githubi?
+
+## Mis on github?
 Github on koht, kus saab salvestada, arendada ja luua programmeerimiskoodi. Seda 
 saab kasutada, lood projekti üksi või koos teistega. 
-Mõned olulised mõisted: 
-• Repository - sinu projekti kaust GitGubis 
-• Git - versioonihaldussüsteem, millega jälgid koodis tehtud muudatusi 
-• Commit - salvestatud muudatuste kogum, mille juurde saab hiljem tagasi 
-minna. 
-• Push – saadad avutis loodud muudatused githubi. 
-• Pull – Tood GitHubist muudatused arvutisse 
-• Clone – Teed githubist oleva repo koopia oma arvutisse 
-Kui tahad laadida üles mingi projekti GitHubi 
+
+# Mõned olulised mõisted: 
+• **Repository** - sinu projekti kaust GitGubis 
+• **Git** - versioonihaldussüsteem, millega jälgid koodis tehtud muudatusi 
+• **Commit** - salvestatud muudatuste kogum, mille juurde saab hiljem tagasi minna. 
+• **Push** – saadad avutis loodud muudatused githubi. 
+• **Pull** – Tood GitHubist muudatused arvutisse 
+• **Clone** – Teed githubist oleva repo koopia oma arvutisse 
+
+## Kui tahad laadida üles mingi projekti GitHubi 
 • Loo konto GitHubis 
 • Vajuta "New repository" 
 • Pane projektile nimi, mis sa soovid panna. 
